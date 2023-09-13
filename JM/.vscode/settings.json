@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "contributors.h": "c",
+        "me_fullsearch.h": "c",
+        "global.h": "c",
+        "macroblock.h": "c",
+        "vlc.h": "c",
+        "me_distortion.h": "c",
+        "mv_search.h": "c",
+        "mode_decision.h": "c",
+        "md_common.h": "c",
+        "rdopt.h": "c"
+    }
+}
